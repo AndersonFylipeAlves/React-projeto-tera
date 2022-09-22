@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-projeto-tera/static/css/main.d6856644.css",
+    "main.js": "/React-projeto-tera/static/js/main.660531ef.js",
+    "static/media/engrenagem.png": "/React-projeto-tera/static/media/engrenagem.ee9963826b9022428da9.png",
+    "static/media/rtx3060ti1.png": "/React-projeto-tera/static/media/rtx3060ti1.89ad54b8ea8e0b2147d4.png",
+    "static/media/rtx30501.png": "/React-projeto-tera/static/media/rtx30501.c99957cf74be5e013b66.png",
+    "static/media/gtx1650OcEdition1.png": "/React-projeto-tera/static/media/gtx1650OcEdition1.1299d9134da7ce5c3374.png",
+    "static/media/foto1.png": "/React-projeto-tera/static/media/foto1.1ba5b7aa1a9219d1b0ef.png",
+    "static/media/gtx1050ti1.png": "/React-projeto-tera/static/media/gtx1050ti1.33f0de9c6a64a0221db0.png",
+    "static/media/foto2.png": "/React-projeto-tera/static/media/foto2.2892e89e0848216252b1.png",
+    "static/media/rtx30901.png": "/React-projeto-tera/static/media/rtx30901.d44b3997cfd88c4af874.png",
+    "static/media/foto6.png": "/React-projeto-tera/static/media/foto6.c20f4dbb31b3e6a5ed82.png",
+    "static/media/foto5.png": "/React-projeto-tera/static/media/foto5.4bee2078576046df9df7.png",
+    "static/media/foto3.png": "/React-projeto-tera/static/media/foto3.37b1cbc8bbbcb4ec161c.png",
+    "static/media/foto4.png": "/React-projeto-tera/static/media/foto4.90363957a984c16530cd.png",
+    "static/media/certificados.png": "/React-projeto-tera/static/media/certificados.c984cb6a03c4072ec7c9.png",
+    "static/media/iconpix.png": "/React-projeto-tera/static/media/iconpix.3f52d6d61aec103d3267.png",
+    "index.html": "/React-projeto-tera/index.html",
+    "main.d6856644.css.map": "/React-projeto-tera/static/css/main.d6856644.css.map",
+    "main.660531ef.js.map": "/React-projeto-tera/static/js/main.660531ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6856644.css",
+    "static/js/main.660531ef.js"
+  ]
+}
